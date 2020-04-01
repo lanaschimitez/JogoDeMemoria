@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1572016951 source:c:\users\geova_bz8d17b\onedrive\documentos\programacao\final 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+	<time.h>
+
